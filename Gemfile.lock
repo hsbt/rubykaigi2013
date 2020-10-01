@@ -26,7 +26,8 @@ GEM
       multi_json (~> 1.0)
     ffi (1.8.1)
     fssm (0.2.10)
-    haml (4.0.2)
+    haml (5.2.0)
+      temple (>= 0.8.0)
       tilt
     hike (1.2.2)
     http_router (0.10.2)
@@ -93,6 +94,7 @@ GEM
     sprockets-sass (0.9.1)
       sprockets (~> 2.0)
       tilt (~> 1.1)
+    temple (0.8.2)
     thin (1.5.1)
       daemons (>= 1.0.9)
       eventmachine (>= 0.12.6)
